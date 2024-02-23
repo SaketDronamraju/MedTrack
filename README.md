@@ -1,0 +1,2 @@
+We are Team Insignia and this our service application MedTrack.MedTrack is a telehealth service that can be used for a multitude of tasks like booking appointments,receiving reminders through automated processes,having video conferences and it also has an interactive chatbot.With the data we can collect we can also use it for analytical purposes.
+We are a one stop solution for our patients requirements.
